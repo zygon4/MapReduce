@@ -1,2 +1,2 @@
 # MapReduce
-A toy Map/Reduce framework
+A toy Map/Reduce framework.
